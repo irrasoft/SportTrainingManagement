@@ -1,0 +1,16 @@
+{
+  "name": "sport-training-management",
+  "version": "0.0.0",
+  "description": "Description for SportTrainingManagement",
+  "private": true,
+  "license": "UNLICENSED",
+  "cacheDirectories": [
+    "node_modules"
+  ],
+  "devDependencies": {
+    "generator-jhipster": "4.14.4"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  }
+}
